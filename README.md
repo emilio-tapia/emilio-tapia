@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emilio-tapia
+- 👀 I’m interested in Apps
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me emta.develop@gmail.com
